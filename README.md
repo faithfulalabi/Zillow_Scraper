@@ -3,10 +3,10 @@ This is my first programming project ever! I recently just completed a Python co
 
 ## Features 
 The code is currently hard coded to Arlington Tx, but it can be easily formmated to the city and state you live by changing the link in the code.
-..* Grabs all the listing info in specified city 
-..* Writes the name,details(price,bedroom), address to a CSV file
+* Grabs all the listing info in specified city 
+* Writes the name,details(price,bedroom), address to a CSV file
 
 ## Install
 Use the following pip command:
-..* pip install selenium
-..* pip install pandas 
+* pip install selenium
+* pip install pandas 
